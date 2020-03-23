@@ -1,4 +1,4 @@
-Le thême de notre site web sera "les fruits et légumes".
+Le thème de notre site web sera "les fruits et légumes".
 
 Page A : fruits.
   article sur les fruits + liste de fruit.
