@@ -18,3 +18,8 @@ Sous-page B1 : Courgette.
                                 
                                              ----> Haricot
   
+Technologie utilisé : HTML.
+
+Répartition des taches : 
+Clara : creation des pages : index, légume, courgette et haricots ainsi que des branches les reliant
+Cassandre : creation des pages : Fruit, kiwi  ainsi que des branches les reliant      
