@@ -1,1 +1,12 @@
 Le thême de notre site web sera "les fruits et légumes".
+
+Page A : fruits.
+  article sur les fruits + liste de fruit.
+Sous-page A1 : Kiwi.
+  article sur les bienfaits des kiwi.
+Page B : légumes 
+  article sur les légumes + liste de légume.
+Sous-page B1 : Haricots.
+  article sur les bienfaits des haricots.
+Sous-page B1 : Courgette.
+  article sur les bienfaits des courgettes.
