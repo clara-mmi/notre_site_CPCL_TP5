@@ -10,3 +10,11 @@ Sous-page B1 : Haricots.
   article sur les bienfaits des haricots.
 Sous-page B1 : Courgette.
   article sur les bienfaits des courgettes.
+  
+  
+  Page principale : index.html  ---->Fruits  ----> Kiwi
+  
+                                ---->Légumes ----> Courgette
+                                
+                                             ----> Haricot
+  
